@@ -26,12 +26,13 @@ https://www.matecdev.com/posts/julia-introduction-vscode.html
 The files for each session are given below.
 ## Day 1, Feb. 13:
 * [Automatic differentiation for univeriate functions and dual numbers](Day1/Univariate.ipynb)
+
+## Day 2, Feb. 20:
 * [Automatic differentiation for multivariate functions and pushforward/pullback](Day1/Multivariate.ipynb)
 * [Example: Multi-layer perceptron (MLP)](Day1/CodeExample.ipynb)
 
-## Day 2, Feb. 20:
-* TBC
-
+## Day 3, Feb. 27:
+TBC
 
 ## More useful references
 * More links to resources for learning AD: https://juliadiff.org/ChainRulesCore.jl/previews/PR282/FAQ.html#Where-can-I-learn-more-about-AD-
